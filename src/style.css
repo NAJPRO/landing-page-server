@@ -15,5 +15,5 @@
 }
 
 .btn{
-    @apply border-2 py-4 px-10 font-semibold uppercase rounded-xl;
+    @apply border-2 py-3.5 px-10 font-semibold uppercase rounded-xl;
 }
